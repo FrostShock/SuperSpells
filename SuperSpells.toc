@@ -1,0 +1,5 @@
+## Interface: 11200
+## Notes: Enhanced spells that you usually make a macro for. Without chat history polution.
+## Version: 1.0
+
+SuperSpells.lua

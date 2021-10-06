@@ -1,0 +1,4 @@
+<Bindings>
+  <Binding name="POLYMORPH" header="SUPERSPELLS"> Polymorph(); </Binding>
+  <Binding name="BLINK" header="SUPERSPELLS"> Blink(); </Binding>
+</Bindings>
