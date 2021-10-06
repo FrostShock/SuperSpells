@@ -1,4 +1,14 @@
 <Bindings>
+  <Binding name="WAND" header="SUPERSPELLS"> ShootWand(); </Binding>
+  <Binding name="RESURRECTION" header="SUPERSPELLS"> Resurrection("Resurrection"); </Binding>
+  <Binding name="REDEMPTION" header="SUPERSPELLS"> Resurrection("Redemption"); </Binding>
+  <Binding name="SUMMON" header="SUPERSPELLS"> Summon(); </Binding>
   <Binding name="POLYMORPH" header="SUPERSPELLS"> Polymorph(); </Binding>
   <Binding name="BLINK" header="SUPERSPELLS"> Blink(); </Binding>
+  <Binding name="PORTALSW" header="SUPERSPELLS"> Portal("Stormwind"); </Binding>
+  <Binding name="PORTALIF" header="SUPERSPELLS"> Portal("Ironforge"); </Binding>
+  <Binding name="PORTALDA" header="SUPERSPELLS"> Portal("Darnassus"); </Binding>
+  <Binding name="PORTALOG" header="SUPERSPELLS"> Portal("Orgrimmar"); </Binding>
+  <Binding name="PORTALUC" header="SUPERSPELLS"> Portal("Undercity"); </Binding>
+  <Binding name="PORTALTB" header="SUPERSPELLS"> Portal("Thunder Bluff"); </Binding>
 </Bindings>
